@@ -1,0 +1,12 @@
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\bin\Debug\net8.0\GrpcCommon.deps.json
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\bin\Debug\net8.0\GrpcCommon.dll
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\bin\Debug\net8.0\GrpcCommon.pdb
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.csproj.AssemblyReference.cache
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.AssemblyInfoInputs.cache
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.AssemblyInfo.cs
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.csproj.CoreCompileInputs.cache
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.dll
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\refint\GrpcCommon.dll
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\GrpcCommon.pdb
+D:\UNI\Anul 4\sem 1\PAD\Laboratorul2\Message_Broker_PAD_gRPC\GrpcBrokerService\GrpcCommon\obj\Debug\net8.0\ref\GrpcCommon.dll

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BUQ6GO290g=",
+  "success": true,
+  "projectFilePath": "D:\\UNI\\Anul 4\\sem 1\\PAD\\Laboratorul2\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\google.protobuf\\3.32.1\\google.protobuf.3.32.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\grpc.tools\\2.72.0\\grpc.tools.2.72.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
