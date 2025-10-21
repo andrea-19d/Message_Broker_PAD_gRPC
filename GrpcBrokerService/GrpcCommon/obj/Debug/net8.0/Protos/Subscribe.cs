@@ -28,8 +28,8 @@ namespace GrpcAgent {
             "aWJlUmVxdWVzdBINCgV0b3BpYxgBIAEoCRIPCgdhZGRyZXNzGAIgASgJIiMK",
             "DlN1YnNjcmliZVJlcGx5EhEKCWlzU3VjY2VzcxgBIAEoCDJRCgpTdWJzY3Jp",
             "YmVyEkMKCVN1YnNjcmliZRIbLkdycGNBZ2VudC5TdWJzY3JpYmVSZXF1ZXN0",
-            "GhkuR3JwY0FnZW50LlN1YnNjcmliZVJlcGx5QgyqAglHcnBjQWdlbnRiBnBy",
-            "b3RvMw=="));
+            "GhkuR3JwY0FnZW50LlN1YnNjcmliZVJlcGx5QhkKCUdycGNBZ2VudFABqgIJ",
+            "R3JwY0FnZW50YgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {

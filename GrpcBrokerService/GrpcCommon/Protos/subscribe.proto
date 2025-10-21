@@ -1,8 +1,9 @@
 ﻿syntax = "proto3";
 
-option csharp_namespace = "GrpcAgent";
-
-package GrpcAgent;
+package GrpcAgent;                   
+option csharp_namespace = "GrpcAgent"; 
+option java_package = "GrpcAgent";     
+option java_multiple_files = true;    
 
 service Subscriber {
   rpc Subscribe(SubscribeRequest) returns (SubscribeReply);

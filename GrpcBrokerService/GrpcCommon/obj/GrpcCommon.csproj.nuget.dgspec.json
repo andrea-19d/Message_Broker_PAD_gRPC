@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNI\\Anul 4\\sem 1\\PAD\\Laboratorul2\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj": {}
+    "D:\\Git\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj": {}
   },
   "projects": {
-    "D:\\UNI\\Anul 4\\sem 1\\PAD\\Laboratorul2\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj": {
+    "D:\\Git\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNI\\Anul 4\\sem 1\\PAD\\Laboratorul2\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj",
+        "projectUniqueName": "D:\\Git\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj",
         "projectName": "GrpcCommon",
-        "projectPath": "D:\\UNI\\Anul 4\\sem 1\\PAD\\Laboratorul2\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\UNI\\Anul 4\\sem 1\\PAD\\Laboratorul2\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\obj\\",
+        "projectPath": "D:\\Git\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\GrpcCommon.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\Message_Broker_PAD_gRPC\\GrpcBrokerService\\GrpcCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,15 +73,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.20, 8.0.20]"
+              "version": "[8.0.21, 8.0.21]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.20, 8.0.20]"
+              "version": "[8.0.21, 8.0.21]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.20, 8.0.20]"
+              "version": "[8.0.21, 8.0.21]"
             }
           ],
           "frameworkReferences": {
@@ -90,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\danie\\.dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

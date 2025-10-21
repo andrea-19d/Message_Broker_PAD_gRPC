@@ -9,6 +9,7 @@
       "GrpcBrokerService/1.0.0": {
         "dependencies": {
           "Grpc.AspNetCore": "2.64.0",
+          "Grpc.Core": "2.46.6",
           "GrpcCommon": "1.0.0"
         },
         "runtime": {
